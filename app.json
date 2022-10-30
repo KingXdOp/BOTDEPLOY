@@ -1,8 +1,8 @@
 
 {
-    "name": "𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩",
+    "name": "𝙎𝙥𝙖𝙢 𝘽𝙤𝙩",
     "description": "MOST POWERFUL + STABLE SPAM BOTS",
-    "logo": "https://telegra.ph/file/f8d63b1dc5676fc9988f1.jpg",
+    "logo": "https://telegra.ph/file/b296b25f4b193fdcad68c.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -10,9 +10,9 @@
         "deadlySameer",
         "SpamBots"
     ],
-    "repository": "https://t.me/DollxSpam_BOT",
-    "website": "https://t.me/DollxSpam_BOT",
-    "success_url": "https://t.me/DollxSpam_BOT",
+    "repository": "https://github.com/KingXdOp/BOTDEPLOY",
+    "website": "https://github.com/KingXdOp/BOTDEPLOY",
+    "success_url": "https://github.com/KingXdOp/BOTDEPLOY",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
@@ -21,7 +21,7 @@
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "",
+        "value": "https://telegra.ph/file/b296b25f4b193fdcad68c.jpg",
         "required": false
       },
       "API_HASH": {
