@@ -30,6 +30,6 @@
 
 -------------------------------------------------
 
-## credits 
+## plugin credits 
+[𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩](https://github.com/DOMINATOR-XD/DollXSpamBot)
 
-DEADLY
