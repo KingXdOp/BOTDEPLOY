@@ -1,7 +1,7 @@
 # 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩
 
 <p align="center">
-  <img src="https://telegra.ph/file/b296b25f4b193fdcad68c.jpg">
+  <img src="https://te.legra.ph/file/983194c848b1d97a3b814.jpg">
 </p>
 
 
